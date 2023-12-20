@@ -72,3 +72,16 @@ $ npm run test:cov
 ## Exception
 
 Using Nest we are catching all the exception and with a Global Excepction Class which is default, but if we want we can create a custom exception filter class and make the response the shape we want, with error information, error code, status code and everything we want. So if any request the response it's a 401, nestjs will catch this with a UnauthorizedException class.
+
+## Docker
+
+- I made **Dockerfile** to generate an image and run in a container. This makes it easy to deploy and scale. In the future we can also integrate with **Kubernates** and **Pipelines** to generate **CI/CD** in **AWS** or any **cloud services**.
+- I put a **.dockerignore** file to ignore files and folders during image creation.
+
+```bash
+# Command to build the docker image
+$ docker build -t clikalia .
+
+# Command to run the container from image in a port we want
+$ docker run -p80:3000
+```
