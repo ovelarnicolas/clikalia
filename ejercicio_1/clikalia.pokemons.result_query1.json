@@ -1,0 +1,350 @@
+[{
+  "num": "001",
+  "name": "Bulbasaur",
+  "spawn_time": "20:00"
+},
+{
+  "num": "002",
+  "name": "Ivysaur",
+  "spawn_time": "07:00"
+},
+{
+  "num": "004",
+  "name": "Charmander",
+  "spawn_time": "08:45"
+},
+{
+  "num": "005",
+  "name": "Charmeleon",
+  "spawn_time": "19:00"
+},
+{
+  "num": "007",
+  "name": "Squirtle",
+  "spawn_time": "04:25"
+},
+{
+  "num": "008",
+  "name": "Wartortle",
+  "spawn_time": "07:02"
+},
+{
+  "num": "010",
+  "name": "Caterpie",
+  "spawn_time": "16:35"
+},
+{
+  "num": "011",
+  "name": "Metapod",
+  "spawn_time": "02:11"
+},
+{
+  "num": "013",
+  "name": "Weedle",
+  "spawn_time": "02:21"
+},
+{
+  "num": "014",
+  "name": "Kakuna",
+  "spawn_time": "02:30"
+},
+{
+  "num": "016",
+  "name": "Pidgey",
+  "spawn_time": "01:34"
+},
+{
+  "num": "017",
+  "name": "Pidgeotto",
+  "spawn_time": "01:30"
+},
+{
+  "num": "019",
+  "name": "Rattata",
+  "spawn_time": "01:55"
+},
+{
+  "num": "021",
+  "name": "Spearow",
+  "spawn_time": "12:25"
+},
+{
+  "num": "023",
+  "name": "Ekans",
+  "spawn_time": "12:20"
+},
+{
+  "num": "025",
+  "name": "Pikachu",
+  "spawn_time": "04:00"
+},
+{
+  "num": "027",
+  "name": "Sandshrew",
+  "spawn_time": "01:58"
+},
+{
+  "num": "029",
+  "name": "Nidoran ♀ (Female)",
+  "spawn_time": "01:51"
+},
+{
+  "num": "030",
+  "name": "Nidorina",
+  "spawn_time": "07:22"
+},
+{
+  "num": "032",
+  "name": "Nidoran ♂ (Male)",
+  "spawn_time": "01:12"
+},
+{
+  "num": "033",
+  "name": "Nidorino",
+  "spawn_time": "09:02"
+},
+{
+  "num": "035",
+  "name": "Clefairy",
+  "spawn_time": "03:30"
+},
+{
+  "num": "037",
+  "name": "Vulpix",
+  "spawn_time": "13:43"
+},
+{
+  "num": "039",
+  "name": "Jigglypuff",
+  "spawn_time": "08:46"
+},
+{
+  "num": "041",
+  "name": "Zubat",
+  "spawn_time": "12:28"
+},
+{
+  "num": "043",
+  "name": "Oddish",
+  "spawn_time": "03:58"
+},
+{
+  "num": "044",
+  "name": "Gloom",
+  "spawn_time": "11:33"
+},
+{
+  "num": "046",
+  "name": "Paras",
+  "spawn_time": "01:42"
+},
+{
+  "num": "048",
+  "name": "Venonat",
+  "spawn_time": "02:31"
+},
+{
+  "num": "050",
+  "name": "Diglett",
+  "spawn_time": "02:22"
+},
+{
+  "num": "052",
+  "name": "Meowth",
+  "spawn_time": "02:54"
+},
+{
+  "num": "054",
+  "name": "Psyduck",
+  "spawn_time": "03:41"
+},
+{
+  "num": "056",
+  "name": "Mankey",
+  "spawn_time": "12:52"
+},
+{
+  "num": "058",
+  "name": "Growlithe",
+  "spawn_time": "03:57"
+},
+{
+  "num": "060",
+  "name": "Poliwag",
+  "spawn_time": "03:40"
+},
+{
+  "num": "061",
+  "name": "Poliwhirl",
+  "spawn_time": "09:14"
+},
+{
+  "num": "063",
+  "name": "Abra",
+  "spawn_time": "04:30"
+},
+{
+  "num": "064",
+  "name": "Kadabra",
+  "spawn_time": "11:25"
+},
+{
+  "num": "066",
+  "name": "Machop",
+  "spawn_time": "01:55"
+},
+{
+  "num": "067",
+  "name": "Machoke",
+  "spawn_time": "10:32"
+},
+{
+  "num": "069",
+  "name": "Bellsprout",
+  "spawn_time": "04:10"
+},
+{
+  "num": "070",
+  "name": "Weepinbell",
+  "spawn_time": "09:45"
+},
+{
+  "num": "072",
+  "name": "Tentacool",
+  "spawn_time": "03:20"
+},
+{
+  "num": "074",
+  "name": "Geodude",
+  "spawn_time": "12:40"
+},
+{
+  "num": "075",
+  "name": "Graveler",
+  "spawn_time": "04:53"
+},
+{
+  "num": "077",
+  "name": "Ponyta",
+  "spawn_time": "02:50"
+},
+{
+  "num": "079",
+  "name": "Slowpoke",
+  "spawn_time": "07:12"
+},
+{
+  "num": "081",
+  "name": "Magnemite",
+  "spawn_time": "04:04"
+},
+{
+  "num": "084",
+  "name": "Doduo",
+  "spawn_time": "05:10"
+},
+{
+  "num": "086",
+  "name": "Seel",
+  "spawn_time": "06:46"
+},
+{
+  "num": "088",
+  "name": "Grimer",
+  "spawn_time": "15:11"
+},
+{
+  "num": "090",
+  "name": "Shellder",
+  "spawn_time": "07:39"
+},
+{
+  "num": "092",
+  "name": "Gastly",
+  "spawn_time": "04:21"
+},
+{
+  "num": "093",
+  "name": "Haunter",
+  "spawn_time": "00:10"
+},
+{
+  "num": "096",
+  "name": "Drowzee",
+  "spawn_time": "01:51"
+},
+{
+  "num": "098",
+  "name": "Krabby",
+  "spawn_time": "03:33"
+},
+{
+  "num": "100",
+  "name": "Voltorb",
+  "spawn_time": "04:36"
+},
+{
+  "num": "102",
+  "name": "Exeggcute",
+  "spawn_time": "09:09"
+},
+{
+  "num": "104",
+  "name": "Cubone",
+  "spawn_time": "01:51"
+},
+{
+  "num": "109",
+  "name": "Koffing",
+  "spawn_time": "08:16"
+},
+{
+  "num": "111",
+  "name": "Rhyhorn",
+  "spawn_time": "03:21"
+},
+{
+  "num": "116",
+  "name": "Horsea",
+  "spawn_time": "02:53"
+},
+{
+  "num": "118",
+  "name": "Goldeen",
+  "spawn_time": "03:14"
+},
+{
+  "num": "120",
+  "name": "Staryu",
+  "spawn_time": "22:59"
+},
+{
+  "num": "129",
+  "name": "Magikarp",
+  "spawn_time": "14:26"
+},
+{
+  "num": "133",
+  "name": "Eevee",
+  "spawn_time": "05:32"
+},
+{
+  "num": "138",
+  "name": "Omanyte",
+  "spawn_time": "10:23"
+},
+{
+  "num": "140",
+  "name": "Kabuto",
+  "spawn_time": "00:05"
+},
+{
+  "num": "147",
+  "name": "Dratini",
+  "spawn_time": "06:41"
+},
+{
+  "num": "148",
+  "name": "Dragonair",
+  "spawn_time": "11:57"
+}]
