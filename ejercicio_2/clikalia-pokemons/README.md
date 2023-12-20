@@ -85,3 +85,7 @@ $ docker build -t clikalia .
 # Command to run the container from image in a port we want
 $ docker run -p80:3000
 ```
+
+## Postman
+
+- In order to test the application I put **json file "Clikalia.postman_collection.json" to import the collection** with the request and test json body. The file is in the root project.

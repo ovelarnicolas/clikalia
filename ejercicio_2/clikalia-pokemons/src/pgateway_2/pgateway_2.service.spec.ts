@@ -18,7 +18,7 @@ describe('pgateway_2.service', () => {
     expect(service).toBeDefined();
   });
 
-  it('should return a string', async () => {
+  it('should return a pay message', async () => {
     const result = await service.Pay({
       name: 'test',
       gateway: PGatewayType.GATEWAY_1,
@@ -29,5 +29,11 @@ describe('pgateway_2.service', () => {
       currency: Currency.USD,
     });
     expect(typeof result).toBe('string');
+  });
+
+  it('should return a reimburse message', async () => {
+    const result = await service.Reimburse(PGatewayType.GATEWAY_1);
+    console.log(result);
+    expect(typeof result).toContain('string');
   });
 });

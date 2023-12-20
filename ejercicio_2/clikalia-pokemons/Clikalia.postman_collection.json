@@ -1,0 +1,100 @@
+{
+	"info": {
+		"_postman_id": "6563d9ce-3ade-4d72-9e75-e93959c3bae8",
+		"name": "Clikalia",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "451763"
+	},
+	"item": [
+		{
+			"name": "pay",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"name\": \"Nicolas Ovelar\",\n    \"cardNumber\": \"4545454545454545\",\n    \"cvv\": \"100\",\n    \"expirationDate\": \"01/30\",\n    \"amount\": \"1000\",\n    \"currency\": \"USD\",\n    \"gateway\": \"pgateway_1\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3000/api/pay",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"pay"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "reimburse",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/api/reimburse/pgateway_2",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"reimburse",
+						"pgateway_2"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "partial-reimburse",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/api/partial-reimburse/pgateway_2",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"partial-reimburse",
+						"pgateway_2"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Swagger",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/doc",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"doc"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
