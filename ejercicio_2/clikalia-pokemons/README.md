@@ -68,6 +68,8 @@ $ npm run test:cov
 
 - Under the folder **"test"** it will execute every file with **"spec.ts"** ending name.
 - I'm using **Jest** and **Supertest** to make all the tests, E2E, Unit Test and Integration Test.
+- Service pgateway_2 has it's unit test to make sure it's working ok. In the future we can make more scenarios and make sure all path are tested and also for service **pgateway_1**.
+- Controller has its unit test to test scenarios within controller scope. In the future we can make more test path.
 
 ## Exception
 
